@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-color: darkblue;
+}
+.column{
+  width:200px;
+  height: 200px;
+  margin-left: 4px;
+  background-color: lightseagreen;
+  float: left;
+  border-radius: 3%;
+  border: 5px solid yellow;
+}
